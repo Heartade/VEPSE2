@@ -154,6 +154,10 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrFPS.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+    <Compile Include="Assets\Scripts\Bege.cs" />
+    <Compile Include="Assets\Scripts\GasValve.cs" />
+    <Compile Include="Assets\Scripts\Intensity.cs" />
+    <Compile Include="Assets\Scripts\InteractingGameObject.cs" />
     <Compile Include="Assets\Scripts\PlayerMoveBehavior.cs" />
     <Compile Include="Assets\Scripts\PointEvent.cs" />
   </ItemGroup>
