@@ -30,6 +30,12 @@ ModelImporter:
     100044: //RootNode
     100046: Room
     100048: Shoecase
+    100050: Cube_021
+    100052: Cube_022
+    100054: Cube_023
+    100056: Cube_024
+    100058: Cube_025
+    100060: Cylinder_001
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -55,6 +61,12 @@ ModelImporter:
     400044: //RootNode
     400046: Room
     400048: Shoecase
+    400050: Cube_021
+    400052: Cube_022
+    400054: Cube_023
+    400056: Cube_024
+    400058: Cube_025
+    400060: Cylinder_001
     2300000: Cube
     2300002: Cube_001
     2300004: Cube_002
@@ -79,6 +91,12 @@ ModelImporter:
     2300042: Cylinder
     2300044: Room
     2300046: Shoecase
+    2300048: Cube_021
+    2300050: Cube_022
+    2300052: Cube_023
+    2300054: Cube_024
+    2300056: Cube_025
+    2300058: Cylinder_001
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -103,6 +121,12 @@ ModelImporter:
     3300042: Cylinder
     3300044: Room
     3300046: Shoecase
+    3300048: Cube_021
+    3300050: Cube_022
+    3300052: Cube_023
+    3300054: Cube_024
+    3300056: Cube_025
+    3300058: Cylinder_001
     4300000: Cube_011
     4300002: Cube_010
     4300004: Cylinder
@@ -127,6 +151,12 @@ ModelImporter:
     4300042: Cube_012
     4300044: Cube_015
     4300046: Cube_020
+    4300048: Cube_025
+    4300050: Cube_024
+    4300052: Cylinder_001
+    4300054: Cube_023
+    4300056: Cube_021
+    4300058: Cube_022
     7400000: Default Take
     9500000: //RootNode
   materials:

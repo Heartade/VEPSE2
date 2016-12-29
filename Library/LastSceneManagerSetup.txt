@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/GVRDemo.unity
+- path: Assets/Scenes/VepseMain.unity
   isLoaded: 1
   isActive: 1
