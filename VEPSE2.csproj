@@ -156,6 +156,7 @@
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
     <Compile Include="Assets\Scripts\DoorBehave.cs" />
     <Compile Include="Assets\Scripts\Intensity.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\PlayerMoveBehavior.cs" />
     <Compile Include="Assets\Scripts\PointEvent.cs" />
   </ItemGroup>

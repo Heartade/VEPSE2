@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/VepseMain.unity
+- path: Assets/Scenes/VepseMain_JJ.unity
   isLoaded: 1
   isActive: 1
