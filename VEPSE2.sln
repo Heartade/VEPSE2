@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VEPSE2", "VEPSE2.csproj", "{CE316E2F-A596-8972-B6B6-D677BB112E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VEPSE2.Editor", "VEPSE2.Editor.csproj", "{E5E86C86-2C79-BBD8-B051-7FE1302D9A05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE316E2F-A596-8972-B6B6-D677BB112E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE316E2F-A596-8972-B6B6-D677BB112E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE316E2F-A596-8972-B6B6-D677BB112E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE316E2F-A596-8972-B6B6-D677BB112E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E86C86-2C79-BBD8-B051-7FE1302D9A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E86C86-2C79-BBD8-B051-7FE1302D9A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E86C86-2C79-BBD8-B051-7FE1302D9A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E86C86-2C79-BBD8-B051-7FE1302D9A05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
